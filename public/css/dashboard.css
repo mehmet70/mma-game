@@ -1,0 +1,70 @@
+
+.myfighter{
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/myfighter.jpg);
+}
+.train{
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/train.jpg);
+}
+.challenge{
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/challenge.jpg);
+}
+.league{
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/league.jpg);
+}
+.mycareer{
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/career.jpg);
+}
+.myfights{
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/myfights.jpg);
+}
+.card{
+    background-position: center;
+    background-size: cover;
+    height:300px;
+    margin:5px;
+}
+.card h1{
+    color:white;
+}

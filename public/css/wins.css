@@ -1,0 +1,11 @@
+.rank1{
+    color:gold;
+    font-weight: 500;
+}
+.rank2{
+    color:silver;
+    font-weight: 500;
+}
+.borderless td, .borderless th {
+    border: none;
+}

@@ -1,0 +1,75 @@
+.myfights{
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/myfights.jpg);
+}
+.card{
+    background-position: center;
+    background-size: cover;
+    height:300px;
+    margin:5px;
+}
+.card h1{
+    color:white;
+}
+.win{
+
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/win.jpg);
+    repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ko{
+
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/ko.jpg);
+    repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.sub{
+
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/sub.jpg);
+    repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.stoppage{
+
+    background:
+        /* top, transparent red, faked with gradient */
+            linear-gradient(
+                    rgba(255, 0, 0, 0.45),
+                    rgba(255, 0, 0, 0.45)
+            ),
+                /* bottom, image */
+            url(../img/stoppage.jpg);
+    repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

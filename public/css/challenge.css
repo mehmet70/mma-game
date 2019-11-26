@@ -1,0 +1,11 @@
+tr:hover, tr.selected {
+    background-color: indianred;
+    color:white;
+    border-color:indianred;
+}
+td {
+    padding: 5px;
+}
+tr{
+    border:0px !important;
+}
